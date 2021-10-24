@@ -1,2 +1,5 @@
 # email-bombing-RED-REX
-lol
+
+cd rhshimul
+ls
+python2 rhshimul.py
